@@ -1,0 +1,28 @@
+{
+    "client 1": {
+        "name": "kevin obunga",
+        "age": 30,
+        "contacts": {
+            "email": "kevinobunga95@gmail.com",
+            "phone": 71289373
+        },
+        "has_licence": true,
+        "favourite_color": [
+            "red",
+            "yellow"
+        ]
+    },
+    "client 2": {
+        "name": "Hans Hawi",
+        "age": 2,
+        "contacts": {
+            "email": null,
+            "phone": null
+        },
+        "has_licence": false,
+        "favourite_color": [
+            "blue",
+            "brown"
+        ]
+    }
+}
